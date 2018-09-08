@@ -1,0 +1,4 @@
+﻿  wordCount.cpp
+d:\repository\031602634\wordcount\wordcount\wordcount.cpp(28): warning C4101: “writef”: 未引用的局部变量
+d:\repository\031602634\wordcount\wordcount\wordcount.cpp(113): warning C4715: “mycmpstruct”: 不是所有的控件路径都返回值
+  wordCount.vcxproj -> D:\repository\031602634\wordCount\Debug\wordCount.exe
